@@ -55,6 +55,10 @@ The purpose of licenseis to count the number of user. Please send "server Serial
 ### EGW LOG
 egw log is at /data/egw/log/egw.log
 
+## EGW Performance
+Single super thread direction and same socket: 400wpps(64 byte)            
+Single super thread direction and different socket: 300wpps(64 byte)
+
 ## Contact Us
 email: 1534898891@qq.com              
 qq group: 809768874

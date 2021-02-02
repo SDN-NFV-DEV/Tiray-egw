@@ -1,2 +1,0 @@
-EGW_V1.0:
-	This version support Layer-4/7 load balancer and NaT at the same time. EGW_V2.0 will support the VPC-LB and VPC-NAT. Coming soon!!! 
